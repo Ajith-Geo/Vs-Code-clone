@@ -28,6 +28,10 @@ body{
     color: #9ba3b4;
 }
 
+.options:hover{
+    color: aliceblue;
+}
+
 .download-button{
     font-weight: 500;
     color: aliceblue; 
@@ -37,6 +41,10 @@ body{
     padding: 4px; 
     padding-left: 15px; 
     padding-right: 15px;
+}
+
+.download-button:hover{
+    background-color: #0091ff;
 }
 
 .download-windows{
@@ -49,7 +57,11 @@ body{
     padding: 15px;
     padding-left: 20px;
     padding-right: 20px;
+    
+}
 
+.download-windows:hover{
+    background-color: #0091ff;
 }
 
 .banner{
